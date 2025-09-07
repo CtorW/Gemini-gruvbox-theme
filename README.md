@@ -1,2 +1,3 @@
 # Gemini-gruvbox-theme
-gruvbox theme for Gemini
+
+![screenshot](./screenshot1.png)
